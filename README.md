@@ -6,7 +6,7 @@
  
 [<img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/quinn-okabayashi-453535179/
+[linkedin]: https://www.linkedin.com/in/minh-nguyen-ab26091a0/
 
 <!--
 **minhnguyen-9/minhnguyen-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
