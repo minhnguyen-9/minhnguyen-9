@@ -5,11 +5,9 @@
 - 🔭 I’m currently working on my senior capstone project: building a motion planning algorithm library using Rapidly-exploring Random Tree (RRT) in Rust
  
 [<img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">][linkedin]
-[<img align="left" alt="Twitter" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">][twitter]
 
-[tracing-forest]: https://github.com/QnnOkabayashi/tracing-forest
 [linkedin]: https://www.linkedin.com/in/quinn-okabayashi-453535179/
-[twitter]: https://twitter.com/QnnOkabayashi
+
 <!--
 **minhnguyen-9/minhnguyen-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
