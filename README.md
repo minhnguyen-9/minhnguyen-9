@@ -1,8 +1,8 @@
 ### Hi there, I'm Minh 👋
+#### - Your can look at my most recent research paper that was accepted to NeurIPS 2022 here: https://arxiv.org/abs/2211.00002
 
-### - 🌱 I’m currently learning Rust
-### - 🔭 I’m currently working on my senior capstone project: building a motion planning algorithm library using Rapidly-exploring Random Tree (RRT) in Rust
-### - Your can look at my most recent research paper that was accepted to NeurIPS 2022 here: https://arxiv.org/abs/2211.00002
+- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on my senior capstone project: building a motion planning algorithm library using Rapidly-exploring Random Tree (RRT) in Rust
  
 ### [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/minh-nguyen-ab26091a0/)
 <!--
