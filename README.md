@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Rust
 - 🔭 I’m currently working on my senior capstone project: building a motion planning algorithm library using Rapidly-exploring Random Tree (RRT) in Rust
  
-[<img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">][linkedin]
+[<img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">]
 [linkedin]: https://www.linkedin.com/in/minh-nguyen-ab26091a0/
 
 <!--
